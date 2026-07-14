@@ -560,7 +560,7 @@ export default async function decorate(block) {
     }
     form.dataset.redirectUrl = formDef.redirectUrl || '';
     form.dataset.thankYouMsg = formDef.thankYouMsg || '';
-    form.dataset.action = formDef.action || pathname?.split('.json')[0];
+    form.dataset.action = 'https://author-p148860-e338335-cmstg.adobeaemcloud.com'+formDef.action || pathname?.split('.json')[0];
     form.dataset.source = source;
     form.dataset.rules = rules;
     form.dataset.id = formDef.id;
