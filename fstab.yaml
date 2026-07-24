@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p148860-e338335-cmstg.adobeaemcloud.com/bin/franklin.delivery/ikshu-jain-1/eds-test-form/main
+    url: https://author-p133911-e1313536.adobeaemcloud.com/bin/franklin.delivery/Ikshu-Jain-1/EDS-test-form/main
     type: "markup"
     suffix: ".html"
